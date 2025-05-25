@@ -123,6 +123,14 @@ main button.download {
     cursor: pointer;
 }
 
+.download a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+
 main button.mouse {
     background-color: transparent;
     border: none;
@@ -257,7 +265,7 @@ section .about-self .right h3 span {
 }
 
 section .about-self .right p {
-    font-size: 1rem;
+    font-size: 0.75rem;
     margin: 1rem 0;
 }
 
